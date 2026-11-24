@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td align="center" valign="middle" width="35%">
-<img src="./assets/profile-photo.jpg" width="260" alt="Sonai Das portrait" />
+<img src="./profile-photo.jpg" width="260" alt="Sonai Das portrait" />
 </td>
 <td align="left" valign="middle">
 
